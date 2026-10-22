@@ -1,5 +1,5 @@
 function hello() {
-alert("Hello World!");
+alert("Hello dude!");
 }
 
 const countElement = document.getElementById("count");
