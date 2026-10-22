@@ -1,4 +1,3 @@
-HEAD
 function hello() {
 alert("Hello World!");
 }
